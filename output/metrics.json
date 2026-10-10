@@ -1,0 +1,13 @@
+{
+  "gross_paise": 807144100,
+  "net_paise": 747638750,
+  "cost_paise": 469565100,
+  "profit_paise": 278073650,
+  "discount_paise": 59505350,
+  "orders": 3129,
+  "units": 5959,
+  "margin_pct": 37.193584468434786,
+  "aov_inr": 2389.385586449345,
+  "outlier_orders": 189,
+  "outlier_net_share_pct": 20.073671943836512
+}

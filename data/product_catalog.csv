@@ -1,0 +1,13 @@
+product_id,category,product_name,unit_price_paise,unit_cost_paise
+P01,Electronics,Headphones,299900,194900
+P02,Electronics,Speaker,449900,299900
+P03,Electronics,Keyboard,199900,129900
+P04,Home,Lamp,149900,74900
+P05,Home,Storage Set,89900,44900
+P06,Home,Cushion Set,119900,59900
+P07,Fashion,T-shirt,69900,27900
+P08,Fashion,Backpack,129900,58400
+P09,Fashion,Cap,39900,15900
+P10,Stationery,Notebook,19900,9900
+P11,Stationery,Pen Set,14900,7400
+P12,Stationery,Planner,34900,17400

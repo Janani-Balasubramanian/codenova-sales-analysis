@@ -1,0 +1,3 @@
+scope,orders,net_inr,gross_profit_inr,aov_inr
+All retained orders,3129,7476387.5,2780736.5,2389.385586449345
+Excluding flagged orders (sensitivity only),2940,5975602.0,2211591.0,2032.5176870748298
