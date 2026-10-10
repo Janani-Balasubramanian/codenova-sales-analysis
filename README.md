@@ -2,6 +2,8 @@
 
 **CodeNova Data Science Batch 01 | Task 1**
 
+[LinkedIn internship announcement](https://lnkd.in/p/gFVhn23S) - my published offer-letter update, tagging the official CodeNova Community page.
+
 An executed exploratory analysis of fictional retail orders, covering financial KPIs, monthly/quarterly/seasonal trends, category and product performance, and regional distribution. Built with Python, Pandas, NumPy, Matplotlib and Jupyter notebook tooling. Runs locally without paid services, API keys or hosting.
 
 ## Executive business summary
